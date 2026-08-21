@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=azariaravael-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/azariaravael-arch">
     <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
   </a>
@@ -100,10 +106,14 @@ Exploring modern interfaces and user experiences.
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azariaravael-arch/azariaravael-arch/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azariaravael-arch/azariaravael-arch/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azariaravael-arch/azariaravael-arch/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/azariaravael-arch/azariaravael-arch/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
