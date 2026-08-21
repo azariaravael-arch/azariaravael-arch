@@ -1,73 +1,65 @@
-<h1 align="center">Hi there, I'm Azaria 👋</h1>
+<div align="center">
 
-<h3 align="center">A curious learner exploring the world of code 🚀</h3>
+# Azaria
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Always+learning+something+new;Exploring+Web+%7C+Data+%7C+Mobile;Open+to+collaborate+on+cool+projects!" alt="Typing SVG" />
-</p>
+**Software Developer in progress — curious, adaptable, and always learning**
 
-<p align="center">
-  <a href="https://github.com/azariaravael-arch">
-    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/azariaravael-arch?label=Followers&style=social" alt="GitHub followers" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=Profile%20Views&color=333333&style=flat-square" alt="Profile views" />
 
----
+</div>
 
-### 🌱 About Me
+<br>
 
-- 🔭 I'm currently exploring different areas of software development
-- 🌱 I'm learning a bit of everything — web, data, and mobile
-- 👯 I'm looking to collaborate on beginner-friendly / open source projects
-- 🤔 I'm looking for help with figuring out what to specialize in next
-- 💬 Ask me about my latest learning experiments
-- 📫 How to reach me: *add your email or social link here*
-- ⚡ Fun fact: *add something fun about yourself here*
+## About
 
----
+I build web and mobile applications end-to-end — from front-end interfaces to back-end logic and database design. My core focus is full-stack web development with Laravel and MySQL, front-end styling with Tailwind CSS, cross-platform mobile apps with Flutter, and business process automation with Odoo.
 
-### 🛠️ Tech Stack & Tools
+- **Currently working with** — Laravel, MySQL, Tailwind CSS, and Flutter
+- **Currently exploring** — Odoo module development and customization
+- **Open to** — collaborating on web or mobile projects, freelance work, and open-source contributions
+- **Reach me at** — *add your email or LinkedIn here*
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,cpp,mysql,mongodb,git,github,vscode,figma,linux" />
-</p>
+<br>
 
----
+## Tech Stack
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,laravel,mysql,flutter,odoo,git&theme=light" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azariaravael-arch&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+<br>
 
----
+## GitHub Overview
 
-### 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azariaravael-arch&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=default&hide_border=true&title_color=222222&text_color=444444&icon_color=555555&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=444444&bg_color=ffffff" />
 
----
+</div>
 
-### 🌐 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itsravael"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="azariaravael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=default&hide_border=true&background=FFFFFF&stroke=222222&ring=444444&fire=444444&currStreakLabel=222222" alt="GitHub Streak" />
 
----
+</div>
 
-<p align="center"><i>Thanks for stopping by! ⭐ from a fellow learner.</i></p>
+<br>
+
+## Connect
+
+<div align="center">
+
+<a href="#">LinkedIn</a> ·
+<a href="#">Email</a> ·
+<a href="#">Portfolio</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Thank you for visiting my profile.</sub>
+</div>
