@@ -1,65 +1,175 @@
-<div align="center">
+# 👋 Hi, I'm Ravael
 
-# Azaria
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;Building+Things+with+Code;Exploring+Laravel+%7C+Python+%7C+Flutter;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-**Software Developer in progress — curious, adaptable, and always learning**
+<p align="center">
+  <a href="https://github.com/azariaravael-arch">
+    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/azariaravael-arch">
+    <img src="https://img.shields.io/github/followers/azariaravael-arch?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=Profile%20Views&color=333333&style=flat-square" alt="Profile views" />
+---
 
-</div>
+## 🚀 About Me
 
-<br>
+I'm **Ravael**, a developer who enjoys turning ideas into functional and meaningful digital products.
 
-## About
+I'm currently exploring different areas of software development, with a growing interest in **web development, backend systems, databases, and mobile applications**.
 
-I build web and mobile applications end-to-end — from front-end interfaces to back-end logic and database design. My core focus is full-stack web development with Laravel and MySQL, front-end styling with Tailwind CSS, cross-platform mobile apps with Flutter, and business process automation with Odoo.
+I enjoy learning by building real projects, experimenting with new technologies, and solving problems one step at a time.
 
-- **Currently working with** — Laravel, MySQL, Tailwind CSS, and Flutter
-- **Currently exploring** — Odoo module development and customization
-- **Open to** — collaborating on web or mobile projects, freelance work, and open-source contributions
-- **Reach me at** — *add your email or LinkedIn here*
+```text
+💻 Web Development
+🧠 Backend & Database
+📱 Mobile Development
+🎨 UI/UX & Interface Design
+🔧 Problem Solving
+📚 Continuous Learning
+```
 
-<br>
+* 🔭 Currently building and experimenting with software projects
+* 🌱 Learning **Laravel, Python, Flutter, databases, and modern web technologies**
+* 🛠️ Interested in building practical applications and systems
+* 🎨 Enjoy creating clean and functional interfaces
+* 🤝 Open to collaboration and learning from other developers
+* ⚡ I believe the best way to learn programming is to **build something**
 
-## Tech Stack
+---
 
-<div align="center">
+## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,laravel,mysql,flutter,odoo,git&theme=light" />
+### 💻 Languages
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,cpp" />
+</p>
 
-<br>
+### ⚙️ Frameworks & Technologies
 
-## GitHub Overview
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flutter" />
+</p>
 
-<div align="center">
+### 🗄️ Database
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=default&hide_border=true&title_color=222222&text_color=444444&icon_color=555555&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=default&hide_border=true&title_color=222222&text_color=444444&bg_color=ffffff" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
 
-</div>
+### 🛠️ Tools
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=default&hide_border=true&background=FFFFFF&stroke=222222&ring=444444&fire=444444&currStreakLabel=222222" alt="GitHub Streak" />
+---
 
-</div>
+## 📌 Featured Projects
 
-<br>
+### 🍽️ Dapur Negriku
 
-## Connect
+A web-based dashboard and management system designed to support business operations.
 
-<div align="center">
+**Focus:**
+`Laravel` `PHP` `MySQL` `Tailwind CSS` `Blade`
 
-<a href="#">LinkedIn</a> ·
-<a href="#">Email</a> ·
-<a href="#">Portfolio</a>
+---
 
-</div>
+### 📱 Mobile POS
 
-<br>
+A mobile Point of Sale application focused on managing transactions and integrating business data.
 
-<div align="center">
-<sub>Thank you for visiting my profile.</sub>
-</div>
+**Focus:**
+`Flutter` `Dart` `Odoo` `PostgreSQL`
+
+---
+
+### 📚 Library Application
+
+A web application for managing books, users, and library-related data.
+
+**Focus:**
+`Laravel` `PHP` `MySQL` `Bootstrap`
+
+---
+
+### 🎨 Portfolio & UI Projects
+
+A collection of experiments and projects focused on web interfaces, UI/UX, and frontend development.
+
+**Focus:**
+`HTML` `CSS` `JavaScript` `Figma` `Bootstrap`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azariaravael-arch&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azariaravael-arch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Laravel & Backend Development
+        ↓
+Database Design & Optimization
+        ↓
+Flutter & Mobile Development
+        ↓
+API Integration
+        ↓
+System Architecture
+```
+
+My current goal is not to learn everything at once, but to **build a strong foundation and gradually become better at designing and developing complete applications.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/itsravael">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:azariaravael@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/azariaravael-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Every expert was once a beginner.”</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
