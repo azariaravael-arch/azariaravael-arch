@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Azaria 👋</h1>
+<h1 align="center">Hi there, I'm Ravael 👋</h1>
 
 <h3 align="center">A curious learner exploring the world of code 🚀</h3>
 
