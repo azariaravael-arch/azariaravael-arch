@@ -1,175 +1,151 @@
-# 👋 Hi, I'm Ravael
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Ravael%20👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer+in+Progress;Building+Things+with+Code;Exploring+Laravel+%7C+Python+%7C+Flutter;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Building+Things+with+Code;Laravel+%7C+Python+%7C+Flutter;Always+Learning+%7C+Always+Building" />
 </p>
 
 <p align="center">
   <a href="https://github.com/azariaravael-arch">
-    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/azariaravael-arch">
-    <img src="https://img.shields.io/github/followers/azariaravael-arch?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Ravael**, a developer who enjoys turning ideas into functional and meaningful digital products.
+> 💡 I enjoy turning ideas into functional digital products.
 
-I'm currently exploring different areas of software development, with a growing interest in **web development, backend systems, databases, and mobile applications**.
+I'm **Ravael**, a developer who enjoys exploring software development through real-world projects.
 
-I enjoy learning by building real projects, experimenting with new technologies, and solving problems one step at a time.
+Currently, I'm exploring:
 
 ```text
-💻 Web Development
-🧠 Backend & Database
+🌐 Web Development
+⚙️ Backend Systems
 📱 Mobile Development
-🎨 UI/UX & Interface Design
-🔧 Problem Solving
-📚 Continuous Learning
+🗄️ Databases
+🎨 UI/UX
+🧠 Problem Solving
 ```
 
-* 🔭 Currently building and experimenting with software projects
-* 🌱 Learning **Laravel, Python, Flutter, databases, and modern web technologies**
-* 🛠️ Interested in building practical applications and systems
-* 🎨 Enjoy creating clean and functional interfaces
-* 🤝 Open to collaboration and learning from other developers
-* ⚡ I believe the best way to learn programming is to **build something**
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,cpp" />
-</p>
-
-### ⚙️ Frameworks & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nodejs,flutter" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,mysql,postgresql,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🍽️ Dapur Negriku
 
-A web-based dashboard and management system designed to support business operations.
+Business management dashboard built with Laravel.
 
-**Focus:**
-`Laravel` `PHP` `MySQL` `Tailwind CSS` `Blade`
+`Laravel` `PHP` `MySQL` `Tailwind`
 
----
+</td>
+
+<td width="50%">
 
 ### 📱 Mobile POS
 
-A mobile Point of Sale application focused on managing transactions and integrating business data.
+Point of Sale application using Flutter with backend integration.
 
-**Focus:**
 `Flutter` `Dart` `Odoo` `PostgreSQL`
 
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 Library App
+
+Application for managing books and library data.
+
+`Laravel` `MySQL` `Bootstrap`
+
+</td>
+
+<td width="50%">
+
+### 🎨 UI/UX Projects
+
+Exploring modern interfaces and user experiences.
+
+`Figma` `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 📚 Library Application
-
-A web application for managing books, users, and library-related data.
-
-**Focus:**
-`Laravel` `PHP` `MySQL` `Bootstrap`
-
----
-
-### 🎨 Portfolio & UI Projects
-
-A collection of experiments and projects focused on web interfaces, UI/UX, and frontend development.
-
-**Focus:**
-`HTML` `CSS` `JavaScript` `Figma` `Bootstrap`
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azariaravael-arch&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/azariaravael-arch/azariaravael-arch/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azariaravael-arch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
-
-## 🎯 Currently Learning
+## 🎯 Current Focus
 
 ```text
-Laravel & Backend Development
-        ↓
-Database Design & Optimization
-        ↓
-Flutter & Mobile Development
-        ↓
-API Integration
-        ↓
-System Architecture
+                    ┌───────────────┐
+                    │   LEARNING    │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    BUILDING   │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │   IMPROVING   │
+                    └───────┬───────┘
+                            ↓
+                    ┌───────────────┐
+                    │    REPEAT ♻️  │
+                    └───────────────┘
 ```
 
-My current goal is not to learn everything at once, but to **build a strong foundation and gradually become better at designing and developing complete applications.**
+> **Learn → Build → Fail → Improve → Repeat**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/azariaravael-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/itsravael">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:azariaravael@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/azariaravael-arch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Every expert was once a beginner.”</i>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer&animation=fadeIn" />
 </p>
