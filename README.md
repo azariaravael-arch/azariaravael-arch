@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Hi,%20I'm%20Ravael%20👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer+in+Progress;Building+Things+with+Code;Laravel+%7C+Python+%7C+Flutter;Always+Learning+%7C+Always+Building" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Hi,%20I'm%20Ravael%20👋&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  
+  <br/>
+  
+  <a href="https://github.com/azariaravael-arch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Building+Things+with+Code;Laravel+%7C+Python+%7C+Flutter;Learn+→+Build+→+Improve+→+Repeat" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/azariaravael-arch">
-    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=azariaravael-arch&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
 </p>
 
@@ -16,91 +18,70 @@
 
 ## 👨‍💻 About Me
 
-> 💡 I enjoy turning ideas into functional digital products.
+<details open>
+  <summary><b>Click to read more about me!</b></summary>
+  <br/>
+  <p>I'm a developer who enjoys turning ideas into functional digital products and exploring software development through real-world projects. I'm always eager to learn new technologies and build cool stuff.</p>
+  <ul>
+    <li>🌱 I’m currently learning and exploring more about <b>Backend Systems & Mobile Development</b></li>
+    <li>💬 Ask me about <b>Laravel, PHP, Python, or Flutter</b></li>
+    <li>📫 How to reach me: <a href="mailto:azariaravael@gmail.com">azariaravael@gmail.com</a></li>
+  </ul>
+</details>
 
-I'm **Ravael**, a developer who enjoys exploring software development through real-world projects.
+---
 
-Currently, I'm exploring:
-
-```text
-🌐 Web Development
-⚙️ Backend Systems
-📱 Mobile Development
-🗄️ Databases
-🎨 UI/UX
-🧠 Problem Solving
-```
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,mysql,postgresql,git,github,figma,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,flutter,mysql,postgresql,git,github,figma,vscode&perline=7" />
+  </a>
 </p>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<details open>
+<summary><b>My Recent Work</b> (Expand/Collapse)</summary>
+<br/>
 
-### 🍽️ Dapur Negriku
+| 🍽️ **Dapur Negriku** | 📱 **Mobile POS** |
+| :--- | :--- |
+| Business management dashboard built with Laravel.<br><br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | Point of Sale application using Flutter with backend integration.<br><br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
-Business management dashboard built with Laravel.
+| 📚 **Library App** | 🎨 **UI/UX Projects** |
+| :--- | :--- |
+| Application for managing books and library data.<br><br>![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | Exploring modern interfaces and user experiences.<br><br>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
-`Laravel` `PHP` `MySQL` `Tailwind`
-
-</td>
-
-<td width="50%">
-
-### 📱 Mobile POS
-
-Point of Sale application using Flutter with backend integration.
-
-`Flutter` `Dart` `Odoo` `PostgreSQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Library App
-
-Application for managing books and library data.
-
-`Laravel` `MySQL` `Bootstrap`
-
-</td>
-
-<td width="50%">
-
-### 🎨 UI/UX Projects
-
-Exploring modern interfaces and user experiences.
-
-`Figma` `HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats & Activity
+
+<details open>
+<summary><b>My GitHub Statistics</b> (Expand/Collapse)</summary>
+<br/>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azariaravael-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azariaravael-arch&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azariaravael-arch&theme=tokyonight&hide_border=true" />
-</p>
+</details>
 
 ---
 
-## 🎮 Contribution Snake Game
+## 🎮 Contribution Snake
+
+<details>
+<summary><b>Watch the snake eat my contributions!</b></summary>
+<br/>
 
 <p align="center">
   <picture>
@@ -110,29 +91,7 @@ Exploring modern interfaces and user experiences.
   </picture>
 </p>
 
----
-
-## 🎯 Current Focus
-
-```text
-                    ┌───────────────┐
-                    │   LEARNING    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    BUILDING   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   IMPROVING   │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    REPEAT ♻️  │
-                    └───────────────┘
-```
-
-> **Learn → Build → Fail → Improve → Repeat**
+</details>
 
 ---
 
@@ -151,5 +110,5 @@ Exploring modern interfaces and user experiences.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=150&section=footer&animation=twinkling" />
 </p>
